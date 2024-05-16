@@ -1,0 +1,37 @@
+{
+  "prefix": "!",
+  
+    "categoryIDs": {
+    "ticket_1": "1236999045092737095",
+    "ticket_2": "1236999045092737095",
+    "ticket_3": "1236999045092737095",
+    "ticket_4": "1236999045092737095",
+    "ticket_5": "1236999045092737095",
+    "ticket_6": "1236999045092737095"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "Support",
+      "value": "ticket_1",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:icons8discordmoderatorprogramalu:1229007155089244160>"
+    },
+    {
+      "label": "Conten・creator",
+      "value": "ticket_2",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:yescheck:1228616254194061365>"
+    },
+    {
+      "label": "staff",
+      "value": "ticket_3",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:7697charm:1229651489757331617>"
+    }
+  ]
+}
+
+
